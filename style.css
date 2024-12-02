@@ -2,9 +2,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    line-height: 1.6;
+    background-color: #f0f0f0;
 }
 
 header {
@@ -60,3 +58,9 @@ footer p {
     color: #333;
 }
 
+div {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
